@@ -44,3 +44,9 @@ main h2 {
 .stans-styles {
     background-color:lightgray;
 }
+.meris-style {
+    color: rgb(61, 126, 161);
+    background-color: rgb(228, 46, 26);
+    padding: 3px;
+}
+ 
